@@ -138,7 +138,7 @@ class OtherCharacters extends Component {
 								<Divider></Divider>
 								<FlexboxGrid>
 									<FlexboxGrid.Item style={{ alignItems: 'center', justifyContent: 'center', }} colspan={12}>
-										<img src={`/images/${this.state.selected.characterName}.jpg`} alt="Img could not be displayed" width="320" height="320" />
+										<img src={`/images/${this.state.selected.characterName}.jpg`} alt="Img could not be displayed" width="320" />
 									</FlexboxGrid.Item>
 									<FlexboxGrid.Item colspan={6}>
 										Supported By:
